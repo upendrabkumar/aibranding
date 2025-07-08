@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/ai_branding_studio.html"
+    }
+  ]
+}
